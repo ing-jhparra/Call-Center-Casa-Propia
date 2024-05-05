@@ -1,6 +1,6 @@
 <div align="center">
   <h1 align="center">
-    Viaje hacia la analítica avanzada con Big Data: La clave del éxito
+    Exploración y analisis de datos del Call Center Banco Casa Propia EAP:  
     <br />
     <br />
       <img src="./img/Casa_Propia.jpg" alt="Dashboard">
@@ -17,7 +17,11 @@
 
 * [El Dataset](#El-Dataset)
 
-* [3. Formatos de Almacenamiento](#Formatos-de-Almacenamiento)
+* [Modelo de Datos desde la base de datos PostgreSQL](#Modelo-de-Datos-desde-la-base-de-datos-PostgreSQL)
+
+* [El Dashboard](#El-Dashboard)
+
+* [Insights](#Insights)
 
 
 # Introducción
@@ -68,13 +72,13 @@ Se realizo la normalizacion, estandarización y limpieza de datos, llegando a la
 
 **fact_calls** : Tabla de hechos que almacena los datos que describen a una llamada.
 
-# Modelo de Datos desde la base de datos PostgreSQL.
+# Modelo de Datos desde la base de datos PostgreSQL
 
 Luego de realizar las transformaciones necesarias obtuvimos el siguiente modelo de datos, los siguientes pasos se haran desde Power BI
 
 <div align="center">
   <h1 align="center">
-    Viaje hacia la analítica avanzada con Big Data: La clave del éxito
+    Modelo de Datos
     <br />
     <br />
       <img src="./img/Modelo_Datos.png" alt="Dashboard">
@@ -82,3 +86,9 @@ Luego de realizar las transformaciones necesarias obtuvimos el siguiente modelo 
 </div>
 
 Se observa las tablas categoricas o de dimensión, sus atributos y tipos de datos, con lo cual iremos  
+
+# El Dashboard
+
+Consta de una portada con los colores corporativo, logo, un objetivo y dos botones de navegación a las siguientes paginas
+
+# Insights
