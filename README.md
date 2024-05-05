@@ -91,4 +91,8 @@ Se observa las tablas categoricas o de dimensión, sus atributos y tipos de dato
 
 Consta de una portada con los colores corporativo, logo, un objetivo y dos botones de navegación a las siguientes paginas
 
+[](https://github.com/agusvaldes/call-center-anonymous-bank/blob/main/dataset.zip)
+
+[Dasboard](info/DashboardCasaPropia.pdf)
+
 # Insights
