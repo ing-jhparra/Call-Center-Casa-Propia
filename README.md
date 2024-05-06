@@ -108,5 +108,5 @@ Consta de una portada con los colores corporativo, logo, un objetivo y dos boton
 # Insights
 
 <h4 align="center">
-:construction: El Dasboard aun se encuentra en una etapa de analisis y construcción de graficas para generar los **insights**  :construction:
+:construction: El Dasboard aun se encuentra en una etapa de analisis y construcción de graficas para generar los insights  :construction:
 </h4>
