@@ -89,10 +89,24 @@ Se observa las tablas categoricas o de dimensión, sus atributos y tipos de dato
 
 # El Dashboard
 
-Consta de una portada con los colores corporativo, logo, un objetivo y dos botones de navegación a las siguientes paginas
+Consta de una portada con los colores corporativo, logo, un objetivo y dos botones de navegación a las siguientes paginas 
 
-[](https://github.com/agusvaldes/call-center-anonymous-bank/blob/main/dataset.zip)
+### Dashboard 1 :
+* Tiempo de espera en VRU
+* Tiempo de espera en Cola
+* Tiempo de espera en Servicio
+* Total de Llamadas 
+* Nieles de Servicio por Prioridad (0,1 y 2)
+* Tipo de Outcome por Prioridad
+**Importante** : Filtrado por Outcome
 
-[Dasboard](info/DashboardCasaPropia.pdf)
+### Dahsboard 2 : 
+
+
+[Haga clic aqui para obtener una copia del Dasboard](info/DashboardCasaPropia.pdf)
 
 # Insights
+
+<h4 align="center">
+:construction: El Dasboard aun se encuentra en una etapa de analisis y construcción de graficas para generar los **insights**  :construction:
+</h4>
